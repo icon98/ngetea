@@ -1,6 +1,5 @@
 {
-  "name": "my-remix-app",
-  "private": true,
+  "name": "ngeteax",
   "sideEffects": false,
   "type": "module",
   "scripts": {
@@ -36,5 +35,18 @@
   },
   "engines": {
     "node": ">=18.0.0"
-  }
+  },
+  "description": "📖 See the [Remix docs](https://remix.run/docs) and the [Remix Vite docs](https://remix.run/docs/en/main/future/vite) for details on supported features.",
+  "version": "1.1.4",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/icon98/ngetea"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/icon98/ngetea/issues"
+  },
+  "homepage": "https://github.com/icon98/ngetea#readme"
 }
